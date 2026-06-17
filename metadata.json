@@ -1,0 +1,6 @@
+{
+  "name": "Napa Valley College Foundation",
+  "description": "A high-fidelity clone of the Napa Valley College Foundation website featuring interactive giving portals, scholarship applications, board directory, and foundation updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
